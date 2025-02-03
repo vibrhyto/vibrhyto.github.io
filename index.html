@@ -422,6 +422,7 @@ function stopSound() {
         remainingTime = time;
         isPaused = false;
         updateDisplay();
+        
 
         document.getElementById("timer-container").style.display = "none";
         document.getElementById("progress-container").style.display = "block";
@@ -435,8 +436,8 @@ function stopSound() {
 
                 if (remainingTime <= 0) {
                     clearInterval(timerInterval);
+                    stopSound();
                     alert("Tempo finalizado!");
-                    stopSound(); // Para o som ao final do timer
                     stopTimer();
                 }
             }

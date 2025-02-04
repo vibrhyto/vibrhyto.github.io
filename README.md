@@ -10,6 +10,15 @@ Interessado em saber mais sobre o mundo das plantas?
 Encontre curiosidades, reportagens, postagens e estudos
 [nesse Substack (Phrest)](https://phrest.substack.com/)
 
+## 📌 MetaDados
+
+| 🔄 Última Atualização | 🏷️ Versão | 📋 Alterações |
+|----------------------|---------|-------------|
+| 04/02/2025 | **1.0** | ✅ Código otimizado e aprimorado. |
+|                      |         | 📝 Novos comentários adicionados para melhorar a legibilidade. |
+|                      |         | 🔓 Agora o código é **Full Open-Source** sob a nova licença. |
+|                      |         | 🛠️ Correção de diversos bugs. |
+
 ## 🌱 **Recursos Principais**  
 - ✅ Modos específicos para diferentes estímulos vegetais, encontre pressets para Hidratação, Saúde, Floração, Crescimento, Calma e muito mais.
 

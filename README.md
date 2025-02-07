@@ -14,8 +14,8 @@ Encontre curiosidades, reportagens, postagens e estudos
 
 | 🔄 Última Atualização | 🏷️ Versão | 📋 Alterações |
 |----------------------|---------|-------------|
-| 04/02/2025 | **1.0** | ✅ Código otimizado e aprimorado. |
-|                      |         | 📝 Novos comentários adicionados para melhorar a legibilidade. |
+| 07/02/2025 | **1.1** | ✅ Código otimizado e aprimorado. |
+|                      |         | 📝 Identação polida e codificação limpa. |
 |                      |         | 🔓 Agora o código é **Full Open-Source** sob a nova licença. |
 |                      |         | 🛠️ Correção de diversos bugs. |
 
